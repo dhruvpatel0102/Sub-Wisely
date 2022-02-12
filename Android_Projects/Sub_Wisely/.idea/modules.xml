@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sub_Wisely.iml" filepath="$PROJECT_DIR$/.idea/modules/Sub_Wisely.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sub_Wisely.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sub_Wisely.app.iml" />
+    </modules>
+  </component>
+</project>
