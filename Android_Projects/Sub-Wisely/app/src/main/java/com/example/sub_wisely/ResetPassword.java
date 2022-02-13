@@ -39,15 +39,18 @@ public class ResetPassword extends AppCompatActivity {
                 //checks if it is not empty
                 if(resetNewPassword.getText().toString().isEmpty()){
                     resetNewPassword.setError("Required Fields");
+                    return;
                 }
 
                 if(resetConfirmPassword.getText().toString().isEmpty()){
                     resetConfirmPassword.setError("Required Field");
+                    return;
                 }
 
                 //if reset pass does not match
-                if(resetNewPassword.getText().toString().equals(resetConfirmPassword.getText().toString())){
+                if(!resetNewPassword.getText().toString().equals(resetConfirmPassword.getText().toString())){
                     resetConfirmPassword.setError("Password Does not match");
+                    return;
                 }
 
                 //if there is a sucess event
