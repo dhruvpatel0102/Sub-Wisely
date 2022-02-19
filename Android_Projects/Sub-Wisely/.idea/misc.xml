@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/drawable/custom_button_back.xml" value="0.3525" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/drawable/progress_back.xml" value="0.2235" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/drawable/round_drawable.xml" value="0.345" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_add_subs.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_add_subscriptions.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_add_subscriptions2.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_edit_course.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_login.xml" value="0.18697916666666667" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_register.xml" value="0.17291666666666666" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/activity_reset_password.xml" value="0.18697916666666667" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/course_rv_item.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/layout/reset_alert.xml" value="0.18697916666666667" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/menu/option_menu.xml" value="0.3625" />
+        <entry key="..\:/Android_Projects/Sub-Wisely/app/src/main/res/menu/options_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
